@@ -5,4 +5,5 @@ A simple Tesla clone app project created with components, loading as you scroll 
 <h2> IOS SCREEN GIF <h2>
 
 ![](Screen.gif)
+
 # TeslaClone

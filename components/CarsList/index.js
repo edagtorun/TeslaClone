@@ -13,8 +13,7 @@ const CarsList = () => {
         showsVerticalScrollIndicator={false}
         snapToAlignment={"start"}
         decelerationRate={"fast"}
-        snapToInterval={Dimensions.get("window").height}
-        contentContainerStyle={{ flexGrow: 1 }}
+        snapToInterval={Dimensions.get("screen").height}
       />
     </View>
   );
